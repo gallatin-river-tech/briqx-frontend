@@ -1,0 +1,26 @@
+{
+  "name": "briqx-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gallatin-river-tech/briqx-frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gallatin-river-tech/briqx-frontend/issues"
+  },
+  "homepage": "https://github.com/gallatin-river-tech/briqx-frontend#readme",
+  "dependencies": {
+    "next": "^7.0.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
+}
