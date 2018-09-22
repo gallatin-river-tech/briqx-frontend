@@ -20,7 +20,12 @@
   "homepage": "https://github.com/gallatin-river-tech/briqx-frontend#readme",
   "dependencies": {
     "next": "^7.0.0",
+    "next-redux-wrapper": "^2.0.0",
     "react": "^16.5.2",
-    "react-dom": "^16.5.2"
+    "react-dom": "^16.5.2",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "redux-saga": "^0.16.0",
+    "superagent": "^4.0.0-beta.5"
   }
 }
